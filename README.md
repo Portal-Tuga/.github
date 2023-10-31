@@ -76,3 +76,7 @@ The idea for the Portal Tuga's project was solely conceptualized and developed t
 - **Data Processing**: Gain experience in efficiently processing data from various sources using Apache Kafka.
 
 ------
+
+## Proposed architecture and used technologies:
+
+![Architecture](./portal-tuga.drawio.png)
